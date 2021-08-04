@@ -153,10 +153,3 @@ class OmronVNCInterface:
             rgba = self.vnc_read_location(x_coord, y_coord)
 
             return compare_against_threshold(rgba)
-
-#interface = OmronVNCInterface("menu.yaml")
-#interface.connect_vnc()
-#
-#print(interface.read_param(['shutter','cell1','status']))
-#interface.click_param(['shutter','cell1','set'])
-#print(interface.read_param(['shutter','cell1','status']))
