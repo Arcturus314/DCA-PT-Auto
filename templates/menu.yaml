@@ -1,36 +1,39 @@
 status:
     vacuum:
-        x: 0
-        y: 0
+        x: 32
+        y: 80
     vacuum_gv:
-        x: 0
-        y: 0
+        x: 100
+        y: 80
     vacuum_dpm_gv:
-        x: 0
-        y: 0
+        x: 163
+        y: 80
     coolant:
-        x: 0
-        y: 0
+        x: 230
+        y: 80
     gv1:
-        x: 0
-        y: 0
+        x: 295
+        y: 80
+    gv_dpm:
+        x: 360
+        y: 80
     power:
-        x: 0
-        y: 0
+        x: 495
+        y: 80
     alarm:
-        x: 0
-        y: 0
+        x: 560
+        y: 80
 screen: # status and set locations are identical here
     shutter:
-        x: 0
-        y: 0
+        x: 613
+        y: 40
     gate_valve:
-        x: 0
-        y: 0
+        x: 613
+        y: 90
     interlocks:
-        x: 0
-        y: 0
+        x: 613
+        y: 140
     setup:
-        x: 0
-        y: 0
+        x: 713
+        y: 40
 

@@ -1,91 +1,91 @@
 cell1:
     set:
-        x: 0
-        y: 0
+        x: 36
+        y: 288
     status:
-        x: 0
-        y: 0
-cell2       :
+        x: 36
+        y: 240
+cell2:
     set:
-        x: 0
-        y: 0
+        x: 140
+        y: 288
     status:
-        x: 0
-        y: 0
+        x: 140
+        y: 240
 cell3:
     set:
-        x: 0
-        y: 0
+        x: 227
+        y: 288
     status:
-        x: 0
-        y: 0
+        x: 227
+        y: 240
 cell4:
     set:
-        x: 0
-        y: 0
+        x: 325
+        y: 288
     status:
-        x: 0
-        y: 0
+        x: 325
+        y: 240
 cell5:
     set:
-        x: 0
-        y: 0
+        x: 420
+        y: 288
     status:
-        x: 0
-        y: 0
+        x: 420
+        y: 240
 cell6:
     set:
-        x: 0
-        y: 0
+        x: 35
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 35
+        y: 350
 cell7:
     set:
-        x: 0
-        y: 0
+        x: 130
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 130
+        y: 350
 cell8:
     set:
-        x: 0
-        y: 0
+        x: 225
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 225
+        y: 350
 cell9:
     set:
-        x: 0
-        y: 0
+        x: 325
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 325
+        y: 350
 cell10:
     set:
-        x: 0
-        y: 0
+        x: 420
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 420
+        y: 350
 o_inj:
     set:
-        x: 0
-        y: 0
+        x: 515
+        y: 410
     status:
-        x: 0
-        y: 0
-egun1:
-    set:
-        x: 0
-        y: 0
-    status:
-        x: 0
-        y: 0
+        x: 515
+        y: 350
 mainshutter:
     set:
-        x: 0
-        y: 0
+        x: 755
+        y: 410
     status:
-        x: 0
-        y: 0
+        x: 755
+        y: 350
+egun1:
+    set:
+        x: 755
+        y: 288
+    status:
+        x: 755
+        y: 240
