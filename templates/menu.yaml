@@ -1,0 +1,36 @@
+status:
+    vacuum:
+        x: 0
+        y: 0
+    vacuum_gv:
+        x: 0
+        y: 0
+    vacuum_dpm_gv:
+        x: 0
+        y: 0
+    coolant:
+        x: 0
+        y: 0
+    gv1:
+        x: 0
+        y: 0
+    power:
+        x: 0
+        y: 0
+    alarm:
+        x: 0
+        y: 0
+screen: # status and set locations are identical here
+    shutter:
+        x: 0
+        y: 0
+    gate_valve:
+        x: 0
+        y: 0
+    interlocks:
+        x: 0
+        y: 0
+    setup:
+        x: 0
+        y: 0
+

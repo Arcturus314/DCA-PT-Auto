@@ -1,0 +1,91 @@
+cell1:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell2       :
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell3:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell4:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell5:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell6:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell7:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell8:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell9:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+cell10:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+o_inj:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+egun1:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0
+mainshutter:
+    set:
+        x: 0
+        y: 0
+    status:
+        x: 0
+        y: 0

@@ -1,0 +1,30 @@
+gv1:
+    open:
+        set:
+            x: 0
+            y: 0
+        status:
+            x: 0
+            y: 0
+    close:
+        set:
+            x: 0
+            y: 0
+        status:
+            x: 0
+            y: 0
+gv_dpm:
+    open:
+        set:
+            x: 0
+            y: 0
+        status:
+            x: 0
+            y: 0
+    close:
+        set:
+            x: 0
+            y: 0
+        status:
+            x: 0
+            y: 0
